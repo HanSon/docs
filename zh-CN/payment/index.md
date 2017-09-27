@@ -20,7 +20,7 @@ $options = [
     'notify_url'         => '默认的订单回调地址',     // 你也可以在下单时单独设置来想覆盖它
     // 'device_info'     => '013467007045764',
     // 'sub_app_id'      => '',
-    // 'sub_merchant_id' => '',
+    // 'sub_mch_id' => '',
     // ...
 ];
 
